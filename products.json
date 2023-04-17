@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nome": "Frango com molho de laranja",
+    "preco": 19.99,
+    "foto": "https://livup.imgix.net/website/images/photos-big/frango-com-molho-de-laranja-0-110g-1675287750253.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Creme de Mandioquinha",
+    "preco": 25.50,
+    "foto": "https://livup.imgix.net/website/images/photos-big/creme-de-mandioquinha-0-350g-1669819469746.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Filé Mignon com Arroz",
+    "preco": 29.99,
+    "foto": "https://livup.imgix.net/website/images/photos-big/iscas-de-file-mignon-acebolado--arroz-jasmim-com-castanhas-e-cebolinha-0-210g-1662993750104.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Frango a Kiev",
+    "preco": 22.99,
+    "foto": "https://livup.imgix.net/website/images/photos-big/frango-arroz-integral-e-brocolis-e-creme-de-milho-400g-1598034134481.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Arroz de Pato",
+    "preco": 44.99,
+    "foto": "https://livup.imgix.net/website/images/photos-big/risoto-caprese-0-150g-1669039292428.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Almôndega de carne",
+    "preco": 19.99,
+    "foto": "https://livup.imgix.net/website/images/photos-big/almondega-de-carne---arroz-integral--pure-de-abobora-low-carb-0-360g-1663248394689.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Peixe com molho de Camarão",
+    "preco": 35.99,
+    "foto": "https://livup.imgix.net/website/images/photos-big/saint-peter-com-molho-de-camarao--arroz-integral--farofa-com-couve-0-280g-1666380849148.jpg"
+  },
+  {
+    "id": 8,
+    "nome": "Hamburguer de Ervilha",
+    "preco": 15.99,
+    "foto": "https://livup.imgix.net/website/images/photos-big/hamburguer-de-ervilha--arroz-negro--0-210g-1667586209041.jpg"
+  }
+]
